@@ -1,0 +1,2 @@
+/home/jhzhou/working/nbiot_sdk/sample/CMakeFiles/nbiot_sample.dir
+/home/jhzhou/working/nbiot_sdk/CMakeFiles/nbiot_sdk.dir

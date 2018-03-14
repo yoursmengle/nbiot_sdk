@@ -1,5 +1,9 @@
 cmake_minimum_required(VERSION 2.8)
 
+SET(CMAKE_SYSTEM_NAME Linux)
+SET(CMAKE_C_COMPILER "arm-linux-gnueabi-gcc")
+SET(CMAKE_CXX_COMPILER "arm-linux-gnueabi-g++")
+
 project(nbiot_sample C)
 
 aux_source_directory(. NBIOT_SAMPLE_SOURCE)
